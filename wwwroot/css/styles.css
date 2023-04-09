@@ -1,0 +1,24 @@
+﻿div {
+    margin: 1.5em;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+th, td {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
